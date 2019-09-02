@@ -7,7 +7,7 @@ package com.mycompany.helloworldapp;
 
 /**
  *
- * @author alumno
+ * @author alumnoj
  */
 public class Main {
     public static void main(String[] args) {
